@@ -9,6 +9,8 @@ yarn-debug.log*
 yarn-error.log*
 
 .vscode
-
+prod.env
+dev.env
 dev.js
 ./server/config/dev.js
+bigpyxbot-uffloi-9ed5336e3ec0   NUEVA.json
